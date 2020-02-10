@@ -3,13 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://cherrychung.github.io/blog/</loc>
-    <lastmod>2019-12-17T15:35:33+08:00</lastmod>
+    <loc>https://cherrychung.github.io/blog/post/</loc>
+    <lastmod>2019-12-20T16:46:58+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://cherrychung.github.io/blog/post/</loc>
-    <lastmod>2019-12-17T15:35:33+08:00</lastmod>
+    <loc>https://cherrychung.github.io/blog/post/can/</loc>
+    <lastmod>2019-12-20T16:46:58+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cherrychung.github.io/blog/</loc>
+    <lastmod>2019-12-20T16:46:58+08:00</lastmod>
   </url>
   
   <url>
@@ -44,6 +49,11 @@
   
   <url>
     <loc>https://cherrychung.github.io/blog/post/%E7%88%B1%E6%AC%B2%E4%B9%8B%E6%AD%BB-/</loc>
+    <lastmod>2019-12-12T16:19:18+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cherrychung.github.io/blog/post/%E8%A7%86%E9%9F%B3%E9%A2%91%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86%E5%85%A5%E9%97%A8_/</loc>
     <lastmod>2019-12-12T16:19:18+08:00</lastmod>
   </url>
   
